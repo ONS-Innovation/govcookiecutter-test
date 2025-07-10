@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: 'ONS-Innovation/govcookiecutter-test'
 spec:
   type: other
-  lifecycle: production
+  lifecycle: experimental
   owner: spotify-backstage-trial-team
