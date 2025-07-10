@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: govcookiecutter-test
+  annotations:
+    github.com/project-slug: 'ONS-Innovation/govcookiecutter-test'
+spec:
+  type: other
+  lifecycle: production
+  owner: spotify-backstage-trial-team
